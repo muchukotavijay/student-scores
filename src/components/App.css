@@ -1,0 +1,21 @@
+.container {
+    width: 500px;
+    height: 50vh;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-left {
+    width: 55%;
+}
+
+.flex-right {
+    width: 50%;
+}
+
+.red {
+    background-color: red;
+}
